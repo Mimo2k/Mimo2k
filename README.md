@@ -1,6 +1,6 @@
 # Hi, I am Mimo! Great to see you here! 
 
-I am Mimo Patra, currently pursuing my B.Tech degree in Computer Science and Technology from [BC ROY ENGINEERING COLLEGE](https://bcrec.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Mimo Patra, currently pursuing my B.Tech degree in Computer Science and Engineering from [Dr. B.C Roy Engineering College](https://bcrec.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydeeppatra18101999@gmail.com)](mailto:joydeeppatra18101999@gmail.com)
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)-->
