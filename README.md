@@ -1,4 +1,4 @@
-# Hi, I am Mimo! Great to see you here! <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+# Hi, I am Mimo! Great to see you here! <img src="https://github.com/Mimo2k/Mimo2k/blob/e9bc1f7e6ea276bfc17ef4ea569c1f6310ccdfe5/Resources/Hi.gif" width="40px" />
 
 
 <a target="_blank">
