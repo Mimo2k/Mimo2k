@@ -1,5 +1,6 @@
 # Hi, I am Mimo! Great to see you here! 
 
+
 I am Mimo Patra, currently pursuing my B.Tech degree in Computer Science and Engineering from [Dr. B.C Roy Engineering College](https://bcrec.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydeeppatra18101999@gmail.com)](mailto:joydeeppatra18101999@gmail.com)
@@ -21,7 +22,7 @@ I am Mimo Patra, currently pursuing my B.Tech degree in Computer Science and Eng
 <!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)-->
 <!--[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://)-->
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<img align='right' src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg?raw=true" width="450" height = "450">
 
 ## ⚡ Technologies
 
