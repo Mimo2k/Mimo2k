@@ -18,6 +18,9 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mimo2k?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Mimo2k?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+<div align="center">
+<b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
+  </div>
 
 <img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
 
