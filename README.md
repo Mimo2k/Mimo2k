@@ -71,4 +71,3 @@ I am Mimo Patra, currently pursuing my B.Tech degree in Computer Science and Eng
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mimo2k&theme=tokyonight" />
 </p>
 
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
