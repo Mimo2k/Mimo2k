@@ -18,16 +18,8 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mimo2k?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Mimo2k?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+<br/>
 
-
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)-->
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)-->
-<!--[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)-->
-<!--[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/)-->
-<!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)--> <!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://name.hashnode.dev/)](https://name.hashnode.dev/) -->
-
-<!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://Mimo2k.github.io/)](https://.github.io/) -->
-<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
 [![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k)
 
