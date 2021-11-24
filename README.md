@@ -31,7 +31,7 @@ Connect with me:
 
 
 
-[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k)
+<!--[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k) -->
 
 <!-- ## 👨🏻‍💻 Coding Profiles
 
