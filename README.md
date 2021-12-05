@@ -19,7 +19,7 @@ Connect with me:
 <br/>
 <p align="center">
   <img src="https://gpvc.arturio.dev/Mimo2k" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mimo2k&style=flat&color=brightgreen"> •    -->
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mimo2k&style=flat&color=brightgreen"> 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mimo2k?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Mimo2k?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
@@ -29,9 +29,6 @@ Connect with me:
 
 <img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
 
-
-
-<!--[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k) -->
 
 <!-- ## 👨🏻‍💻 Coding Profiles
 
@@ -68,7 +65,10 @@ Connect with me:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+
+<img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
+<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
@@ -78,6 +78,7 @@ Connect with me:
 
 ## 📈 Stats
 
+[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k) 
 <table>
 <tr>
 <td>
