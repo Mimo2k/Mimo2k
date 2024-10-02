@@ -36,7 +36,7 @@ Connect with me:
 <!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)-->
 <!--[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://)-->
 
-<img align='right' src="https://github.com/Mimo2k/Mimo2k/blob/6ca5e5ac39161e3ac858def5a163af1d34a8986b/Resources/wheel.svg?raw=true" width="450" height = "450">
+<img align='right' src="https://github.com/Mimo2k/Mimo2k/blob/6ca5e5ac39161e3ac858def5a163af1d34a8986b/Resources/wheel.svg?raw=true" width="450" height="450">
 
 ## ⚡ Technologies
 
