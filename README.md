@@ -77,7 +77,7 @@ Connect with me:
 
 ## 📈 Stats
 
-[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k) 
+[![Mimo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k)
 <table>
 <tr>
 <td>
